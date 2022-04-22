@@ -1,6 +1,6 @@
-# Seja Bem Vindo ao meu perfil no Github
-+ Eu sou Ângelo Abreu Zua, estudande e apaixondado por programção
-+ Mimhas linguagens favoritas:
+# Добро пожаловать на мою страницу в Github
++ Я Анжелу Абреу Зуа я студент и программист.
++ Мои любимые языки программирования это:
 + PHP
 + MYDQL
 + PYTHON
