@@ -1,5 +1,5 @@
 # Добро пожаловать на мою страницу в Github
-## Я Анжелу Абреу Зуа я студент и программист.
+## Я Анжелo Абреу Зуа я студент и программист.
 <div style="display: inline_block">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
